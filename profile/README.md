@@ -1,3 +1,3 @@
 # NikanCloud
 
-A set of production and collabration services.
+A set of collabration tools to increase your productivity.
